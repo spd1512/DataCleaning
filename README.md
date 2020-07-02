@@ -17,5 +17,6 @@ Step 5: From the data set in step 4, creates a second, independent tidy data set
 ### Codebook.md
 A codebook that contains all the required information and describes the variables, the data and all the transformations used for cleaning the data.
 
-### Tidy.txt
+### TidyData.txt
 The final dataset obtained after cleaning the data and performing all the steps mentioned above.
+This dataset is in .txt format
